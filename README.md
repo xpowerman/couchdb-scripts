@@ -12,3 +12,10 @@ To run this scripts your need at least this packages installed:
 - **`Python3-pip`**
 
 And install some additional non-standard libraries, which is used in scripts (pip3 install *`<library>`*): 
+
+- **`lockfile`**
+- **`CouchDB`**
+- **`requests`**
+- **`urllib3`**
+
+Hope this scripts help somebody! ;)
